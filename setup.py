@@ -1,0 +1,30 @@
+from distutils.core import setup
+
+setup(
+    name="requestsinspect",
+    packages=["."],
+    version="1.0.0",
+    license="MIT",
+    description="Log or affect requests made by your application (using the requests library)",
+    long_description="",
+    long_description_context_type="text/markdown",
+    author="Paweł Kacperski",
+    author_email="screamingbox@gmail.com",
+    url="https://github.com/skazanyNaGlany",
+    download_url="https://github.com/skazanyNaGlany/requestsinspect",
+    keywords=[],
+    install_requires=[],
+    classifiers=[
+        "Development Status :: 5 - Production/Stable",
+        "Environment :: Web Environment",
+        "Intended Audience :: Developers",
+        "License :: OSI Approved :: MIT License",
+        "Natural Language :: English",
+        "Operating System :: OS Independent",
+        "Programming Language :: Python",
+        "Programming Language :: Python :: 2",
+        "Programming Language :: Python :: 3",
+        "Topic :: Internet :: WWW/HTTP",
+        "Topic :: Software Development :: Libraries",
+    ],
+)
