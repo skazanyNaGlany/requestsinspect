@@ -18,7 +18,7 @@ Log or affect requests made by the requests library.
 ## Installation
 
 ```sh
-$ pip install git+https://github.com/skazanyNaGlany/requestsinspect.git
+pip install git+https://github.com/skazanyNaGlany/requestsinspect.git
 ```
 
 ## Usage
